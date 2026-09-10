@@ -5,9 +5,9 @@
 # Hi, I'm Mariel 👋
 I'm an informatics student at the Institute of Informatics at the University of Oslo (UiO). Please have a look at my public repos :)
 
-🔎 Currently learning: lisp, specifically scheme and the domain-specific language Aeroscript.
+🧠 Currently learning: lisp, specifically scheme and the domain-specific language Aeroscript.
 
-💎 Working on: simulation of a drone with Aeroscript and Java
+📌 Working on: simulation of a drone with Aeroscript and Java
 
 📚 Subjects H26:
 
@@ -15,7 +15,7 @@ I'm an informatics student at the Institute of Informatics at the University of 
     IN2031 - Project in programming
     IN2021 - Cybersecurity
 
-🎙️ Languages: Norwegian, English, Portuguese and Spanish 🪄
+㈵ Languages: Norwegian, English, Portuguese and Spanish 🪄
 
 📩 How to reach me: **marieltavaresfonseca@hotmail.com** ✨
 
