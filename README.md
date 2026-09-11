@@ -3,7 +3,7 @@
 
 
 # Hi, I'm Mariel 👋
-ᯓ I'm an informatics student at the Institute of Informatics at the University of Oslo (UiO). Please have a look at my public repos .𖥔 ݁ ˖
+ᯓ I'm an informatics student at the University of Oslo (UiO). Please have a look at my public repos .𖥔 ݁ ˖
 
 ★ Currently learning: lisp, specifically scheme and the domain-specific language Aeroscript
 
