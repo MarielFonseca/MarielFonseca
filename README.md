@@ -26,13 +26,17 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Aeroscript](https://img.shields.io/badge/Aeroscript-333333?style=for-the-badge)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=fff&style=for-the-badge)
 
 
 ## Tools and frameworks
-![image](https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Git](https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+![Bruno Badge](https://img.shields.io/badge/Bruno-F4AA41?logo=bruno&logoColor=fff&style=for-the-badge)
+![Arduino](https://camo.githubusercontent.com/1883831ef51d4376e26977eeb20c71c43a830b2afd2d6fd5f28c114704406477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&cachebust=1)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Arduino](https://camo.githubusercontent.com/1883831ef51d4376e26977eeb20c71c43a830b2afd2d6fd5f28c114704406477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
 
